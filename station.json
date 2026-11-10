@@ -1,0 +1,35 @@
+{
+  "format": "myradio/station-1",
+  "name": "朝の米国株・NISAラジオ",
+  "description": "ゆうべのアメリカ株と、NISAの動きを、毎朝わかりやすくお届けします。",
+  "tagline": "ゆうべの市場と、NISAの話題",
+  "logo": "logo.svg",
+  "url": "https://majicmajitaji-pixel.github.io/nisa-radio/",
+  "repo": "https://github.com/majicmajitaji-pixel/nisa-radio",
+  "language": "ja",
+  "languages": [
+    "ja"
+  ],
+  "schedule": {
+    "every": "day",
+    "time": "07:00",
+    "timezone": "Asia/Tokyo"
+  },
+  "episodes": "episodes.json",
+  "character": {
+    "pack": "character/character.json",
+    "thumbnail": "character/base.png",
+    "note": "ものラジオのキャラクターを、公序良俗に反しない使い方として利用しています"
+  },
+  "credits": [
+    "声：Microsoft Edge ニューラル音声（ja-JP-NanamiNeural）",
+    "プレーヤー：myradio（MIT License, Copyright (c) 2026 monoradio102）",
+    "キャラクター：ものラジオ（公序良俗に反しない範囲で利用可）"
+  ],
+  "caster": "声：Nanami",
+  "audio": {
+    "dir": "audio",
+    "keep_days": 30
+  },
+  "weather": false
+}
