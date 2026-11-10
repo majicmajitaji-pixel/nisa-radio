@@ -19,12 +19,12 @@
   "character": {
     "pack": "character/character.json",
     "thumbnail": "character/base.png",
-    "note": "ものラジオのキャラクターを、公序良俗に反しない使い方として利用しています"
+    "note": "オリジナルのAI生成キャラクターです"
   },
   "credits": [
     "声：Microsoft Edge ニューラル音声（ja-JP-NanamiNeural）",
     "プレーヤー：myradio（MIT License, Copyright (c) 2026 monoradio102）",
-    "キャラクター：ものラジオ（公序良俗に反しない範囲で利用可）"
+    "キャラクター：オリジナルのAI生成です"
   ],
   "caster": "声：Nanami",
   "audio": {

@@ -21,5 +21,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 This license covers the program (index.html and tools/). The episode scripts
-(episodes/, episodes.json) are dedicated to the public domain under CC0 1.0. The
-sample station's identity (station.json, logo.svg, character/) belongs to ものラジオ.
+(episodes/, episodes.json) are dedicated to the public domain under CC0 1.0.
+The station's identity (station.json, logo.svg) and character images
+(character/) belong to this program, 朝の米国株・NISAラジオ.

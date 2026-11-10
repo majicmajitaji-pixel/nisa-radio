@@ -11,28 +11,28 @@
  "parts": {
   "mouth_half": {
    "src": "mouth_half.png",
-   "x": 430,
-   "y": 318
+   "x": 392,
+   "y": 337
   },
   "mouth_open": {
    "src": "mouth_open.png",
-   "x": 430,
-   "y": 318
-  },
-  "blink": {
-   "src": "blink.png",
-   "x": 448,
-   "y": 245
+   "x": 392,
+   "y": 337
   },
   "smile_mouth": {
    "src": "smile_mouth.png",
-   "x": 430,
-   "y": 318
+   "x": 392,
+   "y": 337
+  },
+  "blink": {
+   "src": "blink.png",
+   "x": 297,
+   "y": 235
   },
   "half_blink": {
    "src": "half_blink.png",
-   "x": 448,
-   "y": 245
+   "x": 297,
+   "y": 235
   }
  },
  "mouth": {
@@ -48,5 +48,5 @@
    "mouth": "smile_mouth"
   }
  },
- "note": "AIで生成したキャラクターです。base.png に、口（mouth_*）と目（blink・look_*）の小さな画像を x, y の位置に重ねる"
+ "note": "オリジナルのAI生成キャラクターです。base.png に、口（mouth_*）と目（blink・half_blink）の小さな画像を x, y の位置に重ねます。"
 }

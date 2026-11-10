@@ -47,7 +47,7 @@ character/                         キャスターの画像
 
 5. `main` にコミットして push する。GitHub Pages が数分で同じ URL を更新する。サーバーの作業やビルドは要らない。
 
-台本の形は、入っている `episodes/2026-11-10-ja.json` をそのまま見本にしてください。
+台本の形は、入っている `episodes/2026-11-11-ja.json` をそのまま見本にしてください。
 
 ## 毎回残すこと
 
@@ -68,7 +68,7 @@ https://majicmajitaji-pixel.github.io/nisa-radio/
 ## ライセンス
 
 - プレーヤー（`index.html`）は [myradio](https://github.com/monoradio102/myradio) をもとにしています。Copyright (c) 2026 monoradio102、MIT License。許諾文は `LICENSE` にあります。
-- キャラクター画像（`character/`）は、そのテンプレートの定めに従い、公序良俗に反しない範囲で使っています。クレジットは `station.json` の `credits` にあり、ページの下に出ます。消さないでください。
+- キャラクター画像（`character/`）は、この番組のオリジナルのAI生成キャラクターです。クレジットは `station.json` の `credits` にあり、ページの下に出ます。消さないでください。
 - 局の名前とロゴ（`logo.svg`）は、この番組のものです。
 - 音声は Microsoft Edge ニューラル音声（ja-JP-NanamiNeural）で作った試しの読み上げです。声の利用条件は、その音声の提供元に従ってください。
 - 台本は、この番組のニュースまとめです。
